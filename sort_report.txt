@@ -1,0 +1,42 @@
+Размер массива: 100
+Insertion Sort: 652000ns
+Quick Sort: 575600ns
+Radix Sort: 808700ns
+Selection Sort: 997400ns
+Red Black tree Sort: 1354500ns
+
+Размер массива: 500
+Insertion Sort: 1982100ns
+Quick Sort: 1398100ns
+Radix Sort: 2275400ns
+Selection Sort: 2121500ns
+Red Black tree Sort: 1508800ns
+
+Размер массива: 1000
+Insertion Sort: 2611400ns
+Quick Sort: 2301100ns
+Radix Sort: 2975600ns
+Selection Sort: 1303600ns
+Red Black tree Sort: 459800ns
+
+Размер массива: 5000
+Insertion Sort: 3752700ns
+Quick Sort: 1073000ns
+Radix Sort: 6974400ns
+Selection Sort: 26546200ns
+Red Black tree Sort: 1915400ns
+
+Размер массива: 10000
+Insertion Sort: 12005300ns
+Quick Sort: 760100ns
+Radix Sort: 6835800ns
+Selection Sort: 59862400ns
+Red Black tree Sort: 8161500ns
+
+Размер массива: 50000
+Insertion Sort: 250367800ns
+Quick Sort: 5338100ns
+Radix Sort: 17573900ns
+Selection Sort: 1236501500ns
+Red Black tree Sort: 15150300ns
+

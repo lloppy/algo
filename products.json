@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Фитнес-трекер",
+    "price": 227,
+    "sale": 38,
+    "sellerPrice": 387,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 55,
+    "sale": 39,
+    "sellerPrice": 470,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Дрон",
+    "price": 162,
+    "sale": 41,
+    "sellerPrice": 426,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Планшетный компьютер",
+    "price": 79,
+    "sale": 11,
+    "sellerPrice": 125,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Умные очки",
+    "price": 107,
+    "sale": 87,
+    "sellerPrice": 180,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Цифровая камера",
+    "price": 104,
+    "sale": 73,
+    "sellerPrice": 493,
+    "imageResourceId": 6
+  },
+  {
+    "name": "VR-очки",
+    "price": 216,
+    "sale": 68,
+    "sellerPrice": 429,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Умные термостаты",
+    "price": 115,
+    "sale": 20,
+    "sellerPrice": 332,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умный душ",
+    "price": 100,
+    "sale": 19,
+    "sellerPrice": 416,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Планшетный компьютер",
+    "price": 96,
+    "sale": 42,
+    "sellerPrice": 257,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Водонагреватель",
+    "price": 157,
+    "sale": 15,
+    "sellerPrice": 160,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Автомобильный навигатор",
+    "price": 138,
+    "sale": 36,
+    "sellerPrice": 274,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 199,
+    "sale": 16,
+    "sellerPrice": 228,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Домашний кинотеатр",
+    "price": 59,
+    "sale": 78,
+    "sellerPrice": 290,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Умные колонки",
+    "price": 177,
+    "sale": 26,
+    "sellerPrice": 441,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Пароочиститель",
+    "price": 222,
+    "sale": 11,
+    "sellerPrice": 372,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Умные розетки",
+    "price": 47,
+    "sale": 16,
+    "sellerPrice": 219,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Умный кошелек",
+    "price": 194,
+    "sale": 66,
+    "sellerPrice": 464,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Умные розетки",
+    "price": 116,
+    "sale": 89,
+    "sellerPrice": 321,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Умные часы",
+    "price": 141,
+    "sale": 87,
+    "sellerPrice": 301,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Умные коврики",
+    "price": 144,
+    "sale": 42,
+    "sellerPrice": 173,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Беспроводные наушники",
+    "price": 149,
+    "sale": 44,
+    "sellerPrice": 234,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Пылесос",
+    "price": 138,
+    "sale": 61,
+    "sellerPrice": 103,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 200,
+    "sale": 17,
+    "sellerPrice": 209,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Домашний кинотеатр",
+    "price": 80,
+    "sale": 86,
+    "sellerPrice": 228,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Игровая консоль",
+    "price": 36,
+    "sale": 42,
+    "sellerPrice": 340,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Умные розетки",
+    "price": 155,
+    "sale": 79,
+    "sellerPrice": 219,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Умный телевизор",
+    "price": 215,
+    "sale": 36,
+    "sellerPrice": 332,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Дрон",
+    "price": 196,
+    "sale": 17,
+    "sellerPrice": 379,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Планшетный компьютер",
+    "price": 219,
+    "sale": 57,
+    "sellerPrice": 322,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Домашний кинотеатр",
+    "price": 20,
+    "sale": 75,
+    "sellerPrice": 425,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Электрическая зубная нить",
+    "price": 247,
+    "sale": 41,
+    "sellerPrice": 366,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Электрическая бритва",
+    "price": 218,
+    "sale": 79,
+    "sellerPrice": 341,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Умный гарнитур",
+    "price": 188,
+    "sale": 85,
+    "sellerPrice": 402,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умные очки",
+    "price": 109,
+    "sale": 89,
+    "sellerPrice": 100,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 116,
+    "sale": 49,
+    "sellerPrice": 143,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Электрическая бритва",
+    "price": 30,
+    "sale": 32,
+    "sellerPrice": 391,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Электрическая мясорубка",
+    "price": 87,
+    "sale": 24,
+    "sellerPrice": 103,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 40,
+    "sale": 87,
+    "sellerPrice": 172,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Пароочиститель",
+    "price": 242,
+    "sale": 64,
+    "sellerPrice": 444,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Цифровая камера",
+    "price": 12,
+    "sale": 73,
+    "sellerPrice": 227,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Домашний кинотеатр",
+    "price": 213,
+    "sale": 16,
+    "sellerPrice": 225,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Дрон",
+    "price": 98,
+    "sale": 67,
+    "sellerPrice": 237,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умный гарнитур",
+    "price": 182,
+    "sale": 33,
+    "sellerPrice": 468,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 160,
+    "sale": 68,
+    "sellerPrice": 131,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Робот-пылесос",
+    "price": 66,
+    "sale": 17,
+    "sellerPrice": 248,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Портативная зарядка",
+    "price": 233,
+    "sale": 38,
+    "sellerPrice": 389,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Электрическая зубная щетка",
+    "price": 162,
+    "sale": 44,
+    "sellerPrice": 269,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Фитнес-трекер",
+    "price": 157,
+    "sale": 83,
+    "sellerPrice": 317,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умный кошелек",
+    "price": 90,
+    "sale": 67,
+    "sellerPrice": 471,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Микроволновая печь",
+    "price": 202,
+    "sale": 59,
+    "sellerPrice": 274,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Массажное кресло",
+    "price": 30,
+    "sale": 65,
+    "sellerPrice": 369,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Умный телевизор",
+    "price": 56,
+    "sale": 30,
+    "sellerPrice": 456,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Умные кнопки",
+    "price": 43,
+    "sale": 26,
+    "sellerPrice": 198,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Пароочиститель",
+    "price": 53,
+    "sale": 13,
+    "sellerPrice": 262,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Умные кнопки",
+    "price": 82,
+    "sale": 31,
+    "sellerPrice": 373,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Система видеонаблюдения",
+    "price": 127,
+    "sale": 28,
+    "sellerPrice": 315,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Умный гарнитур",
+    "price": 185,
+    "sale": 81,
+    "sellerPrice": 145,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умный гарнитур",
+    "price": 160,
+    "sale": 63,
+    "sellerPrice": 423,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умные замки",
+    "price": 145,
+    "sale": 85,
+    "sellerPrice": 376,
+    "imageResourceId": 1
+  },
+  {
+    "name": "VR-очки",
+    "price": 139,
+    "sale": 79,
+    "sellerPrice": 255,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Смарт-зеркало",
+    "price": 96,
+    "sale": 49,
+    "sellerPrice": 246,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Умный телевизор",
+    "price": 68,
+    "sale": 86,
+    "sellerPrice": 182,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Ноутбук",
+    "price": 97,
+    "sale": 84,
+    "sellerPrice": 409,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Умные колонки",
+    "price": 191,
+    "sale": 89,
+    "sellerPrice": 352,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Умный гарнитур",
+    "price": 130,
+    "sale": 67,
+    "sellerPrice": 394,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Планшетный компьютер",
+    "price": 215,
+    "sale": 81,
+    "sellerPrice": 124,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Умный дом",
+    "price": 246,
+    "sale": 15,
+    "sellerPrice": 226,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Умные очки",
+    "price": 44,
+    "sale": 43,
+    "sellerPrice": 133,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Умный телевизор",
+    "price": 33,
+    "sale": 79,
+    "sellerPrice": 107,
+    "imageResourceId": 7
+  },
+  {
+    "name": "VR-очки",
+    "price": 55,
+    "sale": 58,
+    "sellerPrice": 156,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Система видеонаблюдения",
+    "price": 61,
+    "sale": 32,
+    "sellerPrice": 434,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Портативная зарядка",
+    "price": 211,
+    "sale": 29,
+    "sellerPrice": 153,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Умные термостаты",
+    "price": 167,
+    "sale": 48,
+    "sellerPrice": 177,
+    "imageResourceId": 2
+  },
+  {
+    "name": "Планшетный компьютер",
+    "price": 143,
+    "sale": 53,
+    "sellerPrice": 297,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Умные замки",
+    "price": 212,
+    "sale": 88,
+    "sellerPrice": 135,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Холодильник",
+    "price": 21,
+    "sale": 72,
+    "sellerPrice": 196,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Электрическая бритва",
+    "price": 210,
+    "sale": 54,
+    "sellerPrice": 302,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Смарт-зеркало",
+    "price": 26,
+    "sale": 53,
+    "sellerPrice": 261,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Умный гарнитур",
+    "price": 23,
+    "sale": 34,
+    "sellerPrice": 328,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Цифровая камера",
+    "price": 90,
+    "sale": 80,
+    "sellerPrice": 251,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Пылеуловитель",
+    "price": 60,
+    "sale": 23,
+    "sellerPrice": 309,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Цифровая камера",
+    "price": 49,
+    "sale": 63,
+    "sellerPrice": 130,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Электрическая зубная нить",
+    "price": 86,
+    "sale": 68,
+    "sellerPrice": 353,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Дрон",
+    "price": 140,
+    "sale": 46,
+    "sellerPrice": 256,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Умные термостаты",
+    "price": 39,
+    "sale": 51,
+    "sellerPrice": 103,
+    "imageResourceId": 3
+  },
+  {
+    "name": "Цифровая камера",
+    "price": 162,
+    "sale": 39,
+    "sellerPrice": 136,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Умные колонки",
+    "price": 115,
+    "sale": 83,
+    "sellerPrice": 329,
+    "imageResourceId": 7
+  },
+  {
+    "name": "Кофеварка",
+    "price": 175,
+    "sale": 43,
+    "sellerPrice": 424,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Умные замки",
+    "price": 182,
+    "sale": 83,
+    "sellerPrice": 442,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Принтер",
+    "price": 78,
+    "sale": 24,
+    "sellerPrice": 227,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Умные термостаты",
+    "price": 120,
+    "sale": 49,
+    "sellerPrice": 158,
+    "imageResourceId": 4
+  },
+  {
+    "name": "Пылесос",
+    "price": 223,
+    "sale": 39,
+    "sellerPrice": 487,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Умные кнопки",
+    "price": 55,
+    "sale": 28,
+    "sellerPrice": 355,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Умные весы",
+    "price": 191,
+    "sale": 63,
+    "sellerPrice": 232,
+    "imageResourceId": 8
+  },
+  {
+    "name": "Смарт-зеркало",
+    "price": 150,
+    "sale": 54,
+    "sellerPrice": 193,
+    "imageResourceId": 5
+  },
+  {
+    "name": "Умные шторы",
+    "price": 69,
+    "sale": 39,
+    "sellerPrice": 266,
+    "imageResourceId": 6
+  },
+  {
+    "name": "Умные лампочки",
+    "price": 126,
+    "sale": 37,
+    "sellerPrice": 131,
+    "imageResourceId": 1
+  },
+  {
+    "name": "Кофеварка",
+    "price": 228,
+    "sale": 55,
+    "sellerPrice": 309,
+    "imageResourceId": 0
+  },
+  {
+    "name": "Принтер",
+    "price": 217,
+    "sale": 72,
+    "sellerPrice": 332,
+    "imageResourceId": 6
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "experiments": [
+    { "Length": 10, "Counts": 1 },
+    { "Length": 100, "Counts": 1 },
+    { "Length": 1000, "Counts": 1 }
+  ]
+}
